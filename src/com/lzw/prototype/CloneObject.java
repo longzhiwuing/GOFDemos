@@ -1,4 +1,4 @@
-package com.lzw.protype;
+package com.lzw.prototype;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

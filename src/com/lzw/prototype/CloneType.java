@@ -1,4 +1,4 @@
-package com.lzw.protype;
+package com.lzw.prototype;
 
 /**
  * Created with IntelliJ IDEA.
@@ -36,10 +36,10 @@ public class CloneType implements Cloneable{
         return typename != null ? typename.equals(cloneType.typename) : cloneType.typename == null;
     }
 
-    @Override
+/*    @Override
     public int hashCode() {
         return typename != null ? typename.hashCode() : 0;
-    }
+    }*/
 
     @Override
     public String toString() {
